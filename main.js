@@ -9,7 +9,7 @@ app.use(express.urlencoded({extended: false}));
 const con = mysql.createConnection({
   host: 'localhost',
   user: 'root',
-  password: 'architg27',
+  password: 'xxxxx,
   database: 'loginregister'
 });
 var uname_1="0";
